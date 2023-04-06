@@ -1,0 +1,15 @@
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.csproj.AssemblyReference.cache
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.AssemblyInfoInputs.cache
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.AssemblyInfo.cs
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\bin\Debug\net7.0\A.exe
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\bin\Debug\net7.0\A.deps.json
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\bin\Debug\net7.0\A.runtimeconfig.json
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\bin\Debug\net7.0\A.dll
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\bin\Debug\net7.0\A.pdb
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.dll
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\refint\A.dll
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.pdb
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\A.genruntimeconfig.cache
+C:\Users\ghost\OneDrive\Desktop\apuntes\Desarrollo de Sistemas con Herramientas Privadas\Camilo\A\obj\Debug\net7.0\ref\A.dll
